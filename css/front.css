@@ -42,6 +42,11 @@ h4 {
     padding-bottom: 20px;
     font-weight: thin;
 }
+h5 {
+    color: white;
+    padding-bottom: 10px;
+    font-weight: thin;
+}
 p{
     color: white;
     padding-bottom: 20px;
