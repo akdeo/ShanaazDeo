@@ -24,14 +24,6 @@ body {
     border: 5px solid white;
     margin-bottom: 40px;
 }
-# normal{
-    color: white;
-    margin: 8px;
-    display: inline-block;
-    list-style: none;
-    width: 65px;
-    height: 65px;
-}
 h1 {
     color: white;
     font-weight: bold;
@@ -41,6 +33,11 @@ h1 {
     margin: -10px 0;
 }
 h3 {
+    color: white;
+    padding-bottom: 20px;
+    font-weight: thin;
+}
+h4 {
     color: white;
     padding-bottom: 20px;
     font-weight: thin;
@@ -133,5 +130,13 @@ a:hover {
 }
 .content {
     padding-top: 60px;
+}
+#normal{
+    color: white;
+    margin: 8px;
+    display: inline-block;
+    list-style: none;
+    width: 65px;
+    height: 65px;
 }
 }
