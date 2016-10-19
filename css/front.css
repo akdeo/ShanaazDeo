@@ -24,6 +24,14 @@ body {
     border: 5px solid white;
     margin-bottom: 40px;
 }
+# normal{
+    color: white;
+    margin: 8px;
+    display: inline-block;
+    list-style: none;
+    width: 65px;
+    height: 65px;
+}
 h1 {
     color: white;
     font-weight: bold;
